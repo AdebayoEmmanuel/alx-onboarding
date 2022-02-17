@@ -1,0 +1,4 @@
+function sumOfSquare (INPUT1, INPUT2)
+	set sumSquare = (INPUT1 * INPUT1) + (INPUT2 * INPUT2)
+	return sumSquare
+	END
