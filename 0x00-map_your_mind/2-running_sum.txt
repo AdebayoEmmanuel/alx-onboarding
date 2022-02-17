@@ -1,0 +1,8 @@
+function runningSum (INPUT)
+ set sum = 0
+  while (INPUT >= 0)  THEN
+   update sum = sum + INPUT
+  if (input < 0) THEN
+   return sum
+  END IF
+END
